@@ -1,0 +1,54 @@
+div.googleALLcontainer {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	border: 2px solid red;
+}
+.googleALLcontainer {
+	min-height: 100%;
+}
+.TOPnavGOOGLEimg {
+	height: 233px;
+	width: 100%;
+	border: 2px solid black;
+}
+div.TOPnavGOOGLEimg {
+	display: block;
+}
+.TOPnavlong {
+	height: 30px;
+	width: 100%;
+	border: 2px solid black;
+}
+.TOPnav {
+	width: 299.38px;
+	height: 30px;
+	float: right;
+    border: 2px solid purple;
+
+}
+.Gmail {
+	width: 54.18px;
+	height: 24
+	border: 2px solid purple;
+	display: inline-block;
+	border: 2px solid purple;
+
+}
+.Images {
+	width: 64.2px;
+	display: inline-block; ;
+	border: 2px solid purple;
+}
+.Menu{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border: 2px solid purple;
+}
+.Signin {
+	display: inline-block;
+	width: 91px;
+	height: 30px;
+	border: 2px solid purple;
+}
