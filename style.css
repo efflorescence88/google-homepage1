@@ -27,28 +27,97 @@ div.TOPnavGOOGLEimg {
     border: 2px solid purple;
 
 }
+.Gmail :hover {
+     color: #000;
+     text-decoration: underline;
+}
 .Gmail {
-	width: 54.18px;
-	height: 24
-	border: 2px solid purple;
 	display: inline-block;
-	border: 2px solid purple;
+	line-height: 24px;
+	outline: none;
+	vertical-align: middle;
+	line-height: normal;
+	padding-right: 15px;
+	margin-left: 0;
+	margin-right: 0;
+	text-align: right;
+	text-decoration: none;
+	font-size: 13px;
+}
 
+.Gmail a {
+	opacity: .85;
+	text-decoration: none;
+	color: #222;
+	font-family: arial, sans-serif;
+}
+.Images :hover {
+     color: #000;
+     text-decoration: underline;
 }
 .Images {
-	width: 64.2px;
-	display: inline-block; ;
-	border: 2px solid purple;
-}
-.Menu{
 	display: inline-block;
-	width: 30px;
-	height: 30px;
-	border: 2px solid purple;
+	padding-left: 15px;
+	vertical-align: middle;
+	margin-left: 0;
+	margin-right: 0;
+	line-height: normal;
+	white-space: nowrap;
+	text-align: right;
+	text-decoration: none;
+	font-size: 13px;
+}
+.Images a {
+	opacity: .85;
+    font-family: arial, sans-serif;
+    text-decoration: none;
+    color: #222;
+}
+.Menu {
+	display: inline-block;
+	line-height: 30px;
+	outline: none;
+	vertical-align: middle;
+	line-height: normal;
+	padding-right: 15px;
+	margin-left: 0;
+	margin-right: 0;
+	white-space: nowrap;
+	text-align: right;
+	text-decoration: none;
+	font-size: 13px;
 }
 .Signin {
 	display: inline-block;
-	width: 91px;
-	height: 30px;
-	border: 2px solid purple;
+	padding: 0 0 0 15px;
+	position: relative;
+	vertical-align: middle;
+	margin-left: 0;
+	margin-right: 0;
+	flex: 0 0 auto;
+	line-height: normal;
+	text-align: left;
+	white-space: nowrap;
+	border: 1px solid#4285f4;
+	font-weight: bold;
+	outline: none;
+	line-height: 28px;
+	padding: 0 12px;
+	border-radius: 2px;
+	text-align: left;
+	white-space: nowrap;
+	text-decoration: none;
+	background-color: #4285f4;
 }
+.Signin a {
+	font-size: 13px;
+	cursor: default;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+	color: #fff;
+}
+.Signin a : hover{
+	box-shadow: 0 1px 0 rgba(0,0,0,.15);
+}
+
+

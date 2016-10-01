@@ -6,3 +6,4 @@ Building google homepage from scratch. I will be using HTML and CSS languages wh
 WHAT I WILL BE BUILDING ON THIS PROJECT.
 
 a) Start with setting up layout for google.co.uk using containers (div) on HTML.
+b) Start styling top navigation by setting anchor elements on html and styling them.
