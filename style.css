@@ -148,11 +148,12 @@ div.TOPnavGOOGLEimg {
 	float: right;
 }
 .GOOGLEimg {
+	 top: 150px;
 	 margin: auto;
 	 display: block;
 	 width: 272px;
      height: 92px;
-     position: absolute;
+     position: relative;
      border: 2px solid black;
      background-size: 272px 92px;
      height: 92px;
