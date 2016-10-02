@@ -119,5 +119,45 @@ div.TOPnavGOOGLEimg {
 .Signin a : hover{
 	box-shadow: 0 1px 0 rgba(0,0,0,.15);
 }
+.Searchform div {
+	margin-top: 0;
+	display: block;
+   
+}
+.Searchform {
+     width: 100%;
+     height: 128px;
+     position: absolute;
+     bottom: 0;
+     border: 2px solid black;
+     top: 311px;
 
+
+}
+.BOTnav {
+     width: 100%;
+     height: 40px;
+     position: absolute;
+     bottom: 0;
+     border: 2px solid black;
+}
+.BOTnavleft {
+	float: left;
+}
+.BOTnavright {
+	float: right;
+}
+.GOOGLEimg {
+	 margin: auto;
+	 display: block;
+	 width: 272px;
+     height: 92px;
+     position: absolute;
+     border: 2px solid black;
+     background-size: 272px 92px;
+     height: 92px;
+     background: url(https://www.google.co.uk/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png);background-repeat: none; text-align: center;
+	
+
+}
 
